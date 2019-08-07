@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password_verify"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Page",
+				"PageAdmin"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"re",
+				"returnHtml"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"http_bui",
+				"http_build_query"
+			],
+			[
+				"CUR",
+				"CURLOPT_SSL_VERIFYHOST"
+			],
+			[
+				"new",
+				"new_image"
+			],
+			[
+				"ol",
+				"old_height"
+			],
+			[
+				"D",
+				"DIRECTORY_SEPARATOR"
+			],
+			[
+				"imagecr",
+				"imagecreatefromjpeg"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"err",
+				"error_handler"
+			],
+			[
+				"set",
+				"set_error_handler"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"curl",
+				"curl_setopt"
+			],
+			[
+				"F",
+				"filename"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"f",
+				"fclose"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/composer.json",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/httpd-vhosts.conf",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/index.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/curriculo-glen.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/vendor/hcodebr/php-classes/src/Model/User.php",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/vendor/hcodebr/php-classes/src/Model.php",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/views/admin/login.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/vendor/hcodebr/php-classes/src/PageAdmin.php",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/vendor/hcodebr/php-classes/src/Page.php",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/views/admin/header.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/views/admin/footer.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/views/admin/index.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/res/admin/starter.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/views/header.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/views/index.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/views/footer.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/res/site/index.html",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/vendor/hcodebr/php-classes/src/DB/Sql.php",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/vendor/hcodebr/php-classes/src/page.php",
+		"/C/Users/Glen/Documents/Projeto_www/ecommerce/vendor/autoload.php",
+		"/C/Users/Glen/Desktop/hosts",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/website/index.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/ecommerce/composer.json",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/email/contents.html",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/email/index.php",
+		"/C/Users/Glen/Documents/Projeto_www/composer/index.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/tpl/tpl/index.html",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/tpl/composer.json",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/email/composer.json",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/email/vendor/index.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/tpl/vendor/autoload.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/tpl/index.php",
+		"/C/Users/Glen/Documents/Projeto_www/composer/vendor/autoload.php",
+		"/C/Users/Glen/Documents/Projeto_www/composer/composer.json",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/seguranca/exemplo4.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/seguranca/cadastrar.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/gd/exercicio.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/gd/exemplo4.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/seguranca/exemplo1.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/gd/exemplo2c.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/gd/exemplo1.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/gd/exemplo2.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/gd/exemplo3.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/erros/exemplo1.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/gd/exemplo2b.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/error/exemplo1.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/try/exemplo2.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/curl/exemplo1.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/cookie/exemplo2.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/unlink/exemplo2.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/rename/exemplo1.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/fopen/exemplo1.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/fopen/exemplo2.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/fopen/usuarios.csv",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/fopen/class/Sql.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/fopen/class/Usuario.php",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/fopen/config.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Glen/Documents/Projeto_www/udemyphp/dbphp7.sql",
+		"/C/wamp64/www/Projeto_www/udemyphp/download/exemplo1.php",
+		"/C/wamp64/www/Projeto_www/udemyphp/upload/exemplo1.php",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/scripts/refresh.php",
+		"/C/wamp64/bin/apache/apache2.4.39/conf/httpd.conf",
+		"/C/xampp/htdocs/Projeto/udemyphp/dir/exemplo2.php",
+		"/C/xampp/htdocs/Projeto/udemyphp/fopen/exemplo2.php",
+		"/C/Users/Glen/.ssh/id_rsa.pub",
+		"/C/xampp/htdocs/Projeto/udemyphp/versao-php.php",
+		"/C/xampp/htdocs/Projeto/udemyphp/dbphp7.sql",
+		"/C/xampp/htdocs/Projeto/udemyphp/msqli/exemplo-1.php",
+		"/C/xampp/htdocs/Projeto/udemyphp/pdo/exemplo2.php",
+		"/C/xampp/php/php.ini"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
